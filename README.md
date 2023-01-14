@@ -1,2 +1,2 @@
 # Portfolio
-A shocase of my projects and skills
+A showcase of my projects and skills
